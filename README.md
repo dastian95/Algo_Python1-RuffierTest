@@ -1,2 +1,2 @@
 # Algo_Python1
-Belajar python
+Projeck les python algonova
